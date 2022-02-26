@@ -1,1 +1,10 @@
-hkglgl
+-Git --version		--check git version
+-Git init		-- creat ne local repositary
+-Git add.		-- add current changes to next commit
+-Git commit -m		-- commit staged files
+-git status		-- display state of working directory and staging area
+-git clone		-- clone existing repositary
+-git push		-- publish changes to remote repo.
+-git log		-- view commit history
+-git pull		-- download changes and merge
+
